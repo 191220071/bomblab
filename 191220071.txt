@@ -1,0 +1,5 @@
+A text line is a sequence of ASCII characters.
+19854 19549
+180 91 46 24 13 7 4
+44 696
+
